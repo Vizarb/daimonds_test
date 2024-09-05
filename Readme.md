@@ -72,7 +72,7 @@ This application is a command-line interface (CLI) tool for analyzing diamond da
 - If required columns (e.g., `price`, `cut`, `color`, `carat`) are missing from the CSV file, the program will inform you of the missing data.
 
 ## Example CSV File
-
+    link for download : https://raw.githubusercontent.com/dev-area/DS/master/diamonds.csv
 Ensure your CSV file is structured correctly. Here's a sample:
 
 ```csv
